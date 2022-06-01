@@ -1,0 +1,8 @@
+/* this is a style sheet which is used for the graphical interface of a webpage*/
+
+/*this is how you set the background color of a webpage*/
+body {background-color: coral;}
+/*this is how you center text*/
+div.a {
+    text-align: center;
+  }
