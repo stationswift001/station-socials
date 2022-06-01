@@ -1,7 +1,7 @@
 /* this is a style sheet which is used for the graphical interface of a webpage*/
 
 /*this is how you set the background color of a webpage*/
-body {background-color: rgb(88,88,88);}
+body {background-color: rgb(160,160,160);}
 /*this is how you center text*/
 div.a {
     text-align: center;
